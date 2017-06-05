@@ -13,8 +13,7 @@
  * - Add Same status in Woocommerce
  * - Mark all subscription in an order with same status if status is changed from woocommerce order page.
  *
- * @package pugins
- * @subpackage custom-woo-subscription-status
+ * @package custom-woocommerce-subscription-status
  *
  * Plugin Name:       Custom Woocommerce Subscription Status by Wisdmlabs.
  * Description:       A smple plugin to demostrate how to add a new custom woocommerce subscription status called `Like On Hold` which works like on hold.
