@@ -56,6 +56,7 @@ class Custom_Woocommerce_Status_For_Subscription
     /**
      * Change status of all the subscription in an order to `Like On Hold` when order status is changed to `Like On Hold`.
      *
+     * @param object $order woocommerce order.
      * @access public
      */
     public function put_subscription_on_like_on_hold_for_order($order)
