@@ -1,7 +1,7 @@
 <?php
 
 /**
- * A sample plugin to demonstrate how to create custom Woocommerce Subscription status
+ * A sample plugin to demonstrate how to create a custom Woocommerce Subscription status
  * For demonstration we will be implementing `On Hold` like functionality, and name the new status `Like On Hold`
  * Things covered in this sample plugin are :-
  * - Add new status to the status list.
@@ -16,7 +16,7 @@
  * @package custom-woocommerce-subscription-status
  *
  * Plugin Name:       Custom Woocommerce Subscription Status by Wisdmlabs.
- * Description:       A smple plugin to demostrate how to add a new custom woocommerce subscription status called `Like On Hold` which works like on hold.
+ * Description:       A sample plugin to demostrate how to add a new custom woocommerce subscription status called `Like On Hold` which works similart to `On Hold`.
  * Version:           1.0.0
  * Author:            WisdmLabs
  * Author URI:        http://wisdmLabs.com/
